@@ -1,4 +1,17 @@
 # UrbanaX
+
+**UrbanaX** es una aplicación social multiplataforma con integración de inteligencia artificial, multilingüe, sistema de pagos, videollamadas, mensajes, búsqueda de pareja segura y herramientas educativas. Diseñada para ser el nuevo estándar en redes sociales de nivel top 1.
+
+## Características principales
+
+- **Multilenguaje:** Español (latino y general), Inglés, Portugués (fácilmente escalable a más).
+- **Chat en tiempo real:** Texto, audio, videollamadas y multimedia.
+- **Sección educativa para niños:** Con inteligencia artificial gratuita y segura.
+- **Búsqueda de pareja:** IA avanzada con verificación de identidad real.
+- **Sistema de monetización:** Usuarios y administradores pueden generar ingresos de forma segura.
+- **Panel administrativo:** Gestión de usuarios, contenido y pagos.
+
+## Estructura del Proyecto
 "UrbanaX: red social todo-en-uno con IA, pagos seguros y herramientas creativas."
 UrbanaX/
 ├── README.md
